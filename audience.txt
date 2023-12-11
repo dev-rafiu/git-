@@ -3,4 +3,4 @@
 This repo is for anyone who wants to learn Git.
 No prior experience is required.
 
-Just your curiosity
+Just your curiositygit push --force origin your_branch_name
