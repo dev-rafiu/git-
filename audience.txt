@@ -1,6 +1,4 @@
-TARGET AUDIENCE
+AUDIENCE TXT FILE
 
 This repo is for anyone who wants to learn Git.
 No prior experience is required.
-
-Just your curiosity
