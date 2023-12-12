@@ -1,4 +1,4 @@
-OBJECTIVES
+* OBJECTIVES
 
 By the end of this repo, you'll be able to 
   - Create Snapshots
