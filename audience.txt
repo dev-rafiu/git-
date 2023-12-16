@@ -1,7 +1,1 @@
-TARGET AUDIENCE
-
-This repo is for anyone who wants to learn Git.
-No prior experience is required.
-
-Just your curiosity
-bugfix
+picking a file from a different branch
